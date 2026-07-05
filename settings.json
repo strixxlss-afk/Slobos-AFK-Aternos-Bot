@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SAM-hardcore.aternos.me:12320",
+    "ip": "SAM-hardcore.aternos.me",
     "port": 12320,
     "version": "1.21.8",
     "try-creative": false
